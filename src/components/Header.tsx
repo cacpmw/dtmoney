@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import logo from '../assets/logo.svg'
 import { Button, Container, Content } from '../styles/components/header';
 interface HeaderProps {
